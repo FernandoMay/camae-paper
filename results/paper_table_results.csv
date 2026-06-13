@@ -1,0 +1,10 @@
+Scenario,Method,H(t),ESI,Capacity,Psi(t),Active Ch.
+Satcom LEO Doppler,CAMAE,5.9979,0.00017,223.09,142.84,60.7
+Satcom LEO Doppler,SUA,6.0000,0.00000,219.73,142.80,64.0
+Satcom LEO Doppler,CWF,6.0000,0.00000,223.22,142.80,60.7
+Cognitive Radar Jamming,CAMAE,5.9912,0.01659,250.76,127.90,63.1
+Cognitive Radar Jamming,SUA,6.0000,0.00000,246.92,126.77,64.0
+Cognitive Radar Jamming,CWF,6.0000,0.00000,248.05,126.77,63.1
+Neuro Oscillatory Drift,CAMAE,5.8559,0.00014,250.45,145.93,64.0
+Neuro Oscillatory Drift,SUA,6.0000,0.00000,259.50,142.93,64.0
+Neuro Oscillatory Drift,CWF,6.0000,0.00000,259.50,142.93,64.0
