@@ -125,7 +125,8 @@ As established by the current state-of-the-art, existing resource allocation fra
 \caption{Structural Framework Positioning Matrix}
 \label{tab:positioning}
 \centering
-\small
+\footnotesize
+\resizebox{\columnwidth}{!}{
 \begin{tabular}{lccccc}
 \toprule
 \textbf{Framework} & \textbf{Context} & \textbf{Memory} & \textbf{Entropy} & \textbf{Resilience} & \textbf{PODE} \\
@@ -135,9 +136,10 @@ CWF~\cite{yu2002water} & --- & --- & --- & Reactive & --- \\
 CRNs~\cite{mitola1999cognitive} & Partial & Partial & --- & Medium & --- \\
 Radar~\cite{bell1997cognitive} & Partial & Limited & --- & High & --- \\
 \rowcolor{gray!10}
-\textbf{CAMAE (Proposed)} & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+\textbf{CAMAE (Proposed)} & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ \\
 \bottomrule
 \end{tabular}
+}
 \end{table}
 
 Despite substantial advances in adaptive communications and distributed scheduling, no prior work has unified multicarrier spectral coordination, contextual cognitive weighting, predictive memory persistence, and entropy-aware stability regulation within a single mathematically constrained allocation architecture operating over a Partially Observable Dynamic Environment (PODE). The proposed CAMAE framework addresses this gap by treating heterogeneous signal ecosystems as a self-organizing, bounded cognitive field.
