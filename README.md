@@ -58,10 +58,10 @@ The complete IEEEtran LaTeX manuscript is in `manuscript/camae_ieee_manuscript.t
 ## Citation
 
 ```bibtex
-@article{fernandez2026camae,
+@article{mayfuentes2026camae,
   title={Cognitive Adaptive Multicarrier Allocation Engine (CAMAE):
          Entropy-Aware Spectral Coordination Under Partially Observable Dynamic Environments},
-  author={Fern{\'a}ndez, F. M. Y.},
+  author={May~Fuentes, Fernando},
   journal={IEEE Systems Journal},
   year={2026}
 }
